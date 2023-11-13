@@ -1,7 +1,5 @@
 Mern Stack App
 
-Live Link : https://mernstacklokesh.herokuapp.com/
-
 Languages Used : 
 Frontend -> ReactJS (useContext , useReducer , useNavigate , useState , useEffect, React-Router-Dom , Material UI Framework
 Backend -> NodeJS , ExpressJS , MongoDB
